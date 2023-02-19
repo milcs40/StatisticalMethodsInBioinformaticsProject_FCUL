@@ -10,3 +10,16 @@ The final project includes:
 - [The count table for the dataset used](YuviaUnique_genes_gencode.rarR)
 - [A R script with the code for the analysis](MiguelCasanova_MEB_Question2_Rscript.R)
 - [List of differentialy expressed genes (DEGs)](MiguelCasanova_MEB_Question2_DEGTables.xlsx) 
+
+In this project, I have compared different packages for normalization and differential expression analysis of RNA-sequencing datasets. 
+
+For normalization, I tested:
+- EDASeq
+- edgeR
+- DESeq2
+
+For differential expression analysis, I tested:
+- EDASeq/edgeR
+- edgeR/limma
+- DESeq2
+- baySeq
